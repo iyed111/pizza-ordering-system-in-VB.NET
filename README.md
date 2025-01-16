@@ -1,5 +1,5 @@
 **Pizza Ordering System (VB.NET)**
-a simple video showing the results: 
+a short video showing the results: 
 https://github.com/user-attachments/assets/f1eea010-f374-4f6f-a22a-1233c702de54
 
 This is a simple pizza ordering system created using VB.NET (Visual Basic .NET). The application allows users to select a pizza crust type, additional toppings, and quantity, then calculates the total price including any available discounts for loyalty members.
